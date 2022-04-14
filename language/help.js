@@ -731,6 +731,7 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
 ┌── 「 *Thanks To* 」
+├ TisuDemon
 ├ DikaArdnt
 ├ Zeeoneofc
 ├ FatihArridho
